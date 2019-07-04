@@ -2,7 +2,7 @@
  * @brief FreeRTOS Blinky example
  *
  * @note
- * Copyright(C) NXP Semiconductors, 2014
+ * Copyright(C) NXP Semiconducors, 2014
  * All rights reserved.
  *
  * @par
